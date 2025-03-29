@@ -52,7 +52,13 @@ h1{
 }
 footer{
     backgroung-color: beige;
+    padding: 15px;
 }
+#closing{
+    text-align: center;
+    text-style: bold italic;
+}
+    
 
 
 
